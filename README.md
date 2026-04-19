@@ -4,7 +4,6 @@ Support Vector Machine implementation using Python and Scikit-learn
 This project develops and evaluates Support Vector Machine (SVM) models using both from-scratch implementation and Scikit-learn. It explores the impact of kernel selection (linear and RBF) and hyperparameter tuning on classification performance using the Iris dataset.
 
 ## Features
-## Features
 - Developed and evaluated Linear and RBF Kernel SVM models for multi-class classification
 - Performed hyperparameter tuning (C, gamma) to optimise model performance
 - Applied 5-fold cross-validation to improve model generalisation
